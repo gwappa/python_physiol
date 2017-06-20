@@ -11,6 +11,7 @@ Python in physiology studies
    :caption: Contents:
 
    Minimal Jupyter HOWTO
+   Python data structures
 
 
 Indices and tables
